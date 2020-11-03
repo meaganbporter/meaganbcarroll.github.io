@@ -20,16 +20,16 @@ The project is run using an IDE. It could be opened through a command line or ru
 ## UI Design
 
 
-![screenshot](images/america.jpg)
+![screenshot](images/america.png)
 Fig 1. Image that appears with first pushbutton pressed.
 
-![screenshot](images/canada.jpg)
+![screenshot](images/canada.png)
 Fig 2. Image that appears with second pushbutton pressed.
 
-![screenshot](images/french.jpg)
+![screenshot](images/french.png)
 Fig 3. Image that appears with third pushbutton pressed.
 
-![screenshot](images/german.jpg)
+![screenshot](images/german.png)
 Fig 3. Image that appears with fourth pushbutton pressed.
 
 ## 3. Additional Considerations
