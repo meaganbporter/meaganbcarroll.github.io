@@ -6,7 +6,7 @@ User Interface Flag Image Project
 -   **Class:CSCI 325** 
 -   **Grade: 100**
 -   **Language(s): Java**
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/meaganbporter/csci-325-summer-2020/lab05/lab05.java)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/meaganbporter/csci-325-summer-2020/blob/master/lab05/src/lab05/lab05.java)  
     (Please [email me](mailto:mporter@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
