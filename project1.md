@@ -20,14 +20,17 @@ The project is run using an IDE. It could be opened through a command line or ru
 ## UI Design
 
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/america.jpg)
+Fig 1. Image that appears with first pushbutton pressed.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/canada.jpg)
+Fig 2. Image that appears with second pushbutton pressed.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](images/french.jpg)
+Fig 3. Image that appears with third pushbutton pressed.
+
+![screenshot](images/german.jpg)
+Fig 3. Image that appears with fourth pushbutton pressed.
 
 ## 3. Additional Considerations
 
