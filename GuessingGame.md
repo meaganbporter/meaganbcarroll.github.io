@@ -6,7 +6,7 @@ Guessing Game
 -   **Class:CSCI 301** 
 -   **Grade: 100**
 -   **Language(s): **
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/meaganbporter/csci-301-fall-2020/blob/master/testOne.pl)  
     (Please [email me](mailto:mporter@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
