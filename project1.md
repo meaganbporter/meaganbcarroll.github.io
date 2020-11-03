@@ -6,7 +6,7 @@ User Interface Flag Image Project
 -   **Class:CSCI 325** 
 -   **Grade: 100**
 -   **Language(s): Java**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/meaganbporter/csci-325-summer-2020/lab05/lab05.java)  
     (Please [email me](mailto:mporter@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -18,6 +18,7 @@ To purpose of this project was to demonstrate the abilitiy to create a program u
 The project is run using an IDE. It could be opened through a command line or run through the IDE by opening the file, using the IDE to compile and run. 
 
 ## UI Design
+The UI for this project was created using Javafx.
 
 
 ![screenshot](images/america.png)
@@ -32,9 +33,6 @@ Fig 3. Image that appears with third pushbutton pressed.
 ![screenshot](images/german.png)
 Fig 3. Image that appears with fourth pushbutton pressed.
 
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
