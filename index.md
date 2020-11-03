@@ -7,12 +7,12 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [User Interface Flag Image | CSCI 325](project1)
+### [User Interface Flag Image | CSCI 325](UserInterfaceFlag)
 
 ![Project 1 Thumbnail Name](images/program 1 running.png)
 
 ---
-### [Guessing Game | CSCI 301](project1)
+### [Guessing Game | CSCI 301](Guessing Game)
 
 ![Project 2 Thumbnail Name](images/guessing code.png)
 
