@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [User Interface Flag Image | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/program 1 running.png)
 
 ---
 ### [Bowling Game Score Statistics | CSCI 301](project1)
