@@ -21,12 +21,12 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper](/pdf/Ethics Paper CSCI 301.pdf)
+### [Ethics Paper](pdf/Ethics Paper CSCI 301.pdf)
 
 -   **Class: CSCI 301**  
 -   **Grade: 90**
 
-### [Edward Snowden: The Wikileaks Scandal](/pdf/Edward Snowden.pdf)
+### [Edward Snowden: The Wikileaks Scandal](pdf/Edward Snowden.pdf)
 
 -   **Class:CSCI 405** 
 -   **Grade: 100**
@@ -37,7 +37,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Target Data Breach](/pdf/targetbreach.pdf)
+### [Target Data Breach](pdf/targetbreach.pdf)
 
 - **Class: CSCI 405** 
 - **Grade: 100**
