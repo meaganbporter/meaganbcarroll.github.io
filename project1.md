@@ -1,30 +1,24 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+User Interface Flag Image Project
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
+-   **Class:CSCI 325** 
+-   **Grade: 100**
+-   **Language(s): Java**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:mporter@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+To purpose of this project was to demonstrate the abilitiy to create a program utilizing user interface object oriented java programming. When the program runs it presents the user with an image box and the option to choose to display four different flag images. Depending on which image is selected, the cooresponding flag image will appear( i.e. United States will display the United States Flag).
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
+The project is run using an IDE. It could be opened through a command line or run through the IDE by opening the file, using the IDE to compile and run. 
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
 ![screenshot](images/dummy_thumbnail.jpg)
 Fig 1. The launch screen
