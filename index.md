@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/program 1 running.png)
 
 ---
-### [Guessing Game | CSCI 301](Guessing Game)
+### [Guessing Game | CSCI 301](GuessingGame)
 
 ![Project 2 Thumbnail Name](images/guessing code.png)
 
