@@ -37,7 +37,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Target Data Breach](/pdf/sample_presentation.pdf)
+### [Target Data Breach](/pdf/targetbreach.pdf)
 
 - **Class: CSCI 405** 
 - **Grade: 100**
